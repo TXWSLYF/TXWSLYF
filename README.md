@@ -17,6 +17,8 @@ I am a full-stack developer now working in Tokyo but want to move to the Japanes
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXWSLYF)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 <!--
 **TXWSLYF/TXWSLYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +32,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
 -->
