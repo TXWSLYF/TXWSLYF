@@ -17,7 +17,7 @@ I am a full-stack developer now working in Tokyo but want to move to the Japanes
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXWSLYF)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning [webassembly([https://webassembly.org/)
+- 🌱 I’m currently learning [webassembly](https://webassembly.org/)
 
 <!--
 **TXWSLYF/TXWSLYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
