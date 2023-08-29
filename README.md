@@ -13,6 +13,10 @@ I am a full-stack developer now work in Tokyo but want to become a an independen
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXWSLYF)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **TXWSLYF/TXWSLYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
