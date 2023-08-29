@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Alex
-## I am a full-stack developer now work in Tokyo
+I am a full-stack developer now work in Tokyo but want to become a an independent developer one day.
+
 <!--
 **TXWSLYF/TXWSLYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
