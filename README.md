@@ -3,6 +3,7 @@ I am a full-stack developer now working in Tokyo but want to move to the Japanes
 
 - 🌱 I’m currently learning [WebAssembly](https://webassembly.org/)、[WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 - 📫 How to reach me: <a href="mailto:19960623lyf@gmail.com">Email</a>
+- 😄 Pronouns: he/him
 
 
 ### My Skills
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
