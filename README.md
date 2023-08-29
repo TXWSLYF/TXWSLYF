@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Alex
-I am a full-stack developer now work in Tokyo but want to become a an independent developer one day.
+I am a full-stack developer now working in Tokyo but want to move to the Japanese countryside and work as an independent developer one day.
 
 ### My Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
