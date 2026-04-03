@@ -19,10 +19,6 @@ I am a full-stack developer now working in Tokyo but want to move to the Japanes
 ![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXWSLYF)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **TXWSLYF/TXWSLYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
